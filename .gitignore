@@ -2,4 +2,5 @@
 /vendor/
 /.bundle/
 /_posts/drafts/
+instructions.md
 .DS_Store
